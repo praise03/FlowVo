@@ -2,8 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/dao/createProposal": "pages/dao/createProposal.js",
   "/dao/[daoName]": "pages/dao/[daoName].js",
-  "/": "pages/index.js",
-  "/token": "pages/token.js"
+  "/dao/fix": "pages/dao/fix.js"
 }

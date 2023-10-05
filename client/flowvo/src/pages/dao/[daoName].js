@@ -64,7 +64,7 @@ export default function ViewDAO() {
         
         <Navbar />
   
-        <section className='mt-8 lg:mt-0'>
+        <section className='mt-8 min-w-full lg:mt-0'>
           <div id="content" class="pb-6 pt-4">
             <div class="px-0 md:px-4 mx-auto max-w-[1012px]">
               <div id="sidebar-left" class="float-left w-full lg:w-1/4">
